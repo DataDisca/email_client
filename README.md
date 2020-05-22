@@ -8,9 +8,10 @@ A Python email client to send SMTP authenticated emails with attachments.
 
 ## Sponsor
 DataDisca Pty Ltd, Melbourne, Australia
+
 [https://www.datadisca.com](https://www.datadisca.com)
 
 
- 
+
 
 

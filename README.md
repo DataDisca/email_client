@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Email Sender
 
 A Python email client to send SMTP authenticated emails with attachments. 
